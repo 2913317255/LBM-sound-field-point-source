@@ -1,6 +1,6 @@
 # LBM计算点声源干涉
 
-![1500](C:\Users\zhangliang\Desktop\LBM压力波-声学\OutPut_PNG\1500.png)
+![1500](OutPut_PNG\1500.png)
 
 > [!NOTE]
 >

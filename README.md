@@ -1,6 +1,6 @@
 # LBM计算点声源干涉
 
-![1500]([OutPut_PNG\1500.png](https://github.com/2913317255/LBM-sound-field-point-source/blob/main/OutPut_PNG/1500.png))
+![image](https://github.com/2913317255/LBM-sound-field-point-source/blob/main/OutPut_PNG/1500.png)
 
 > [!NOTE]
 >
